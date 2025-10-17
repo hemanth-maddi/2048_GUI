@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hemanth-maddi/2048_GUI/my-2048/index.js/static/css/main.14a24422.css",
-    "main.js": "/hemanth-maddi/2048_GUI/my-2048/index.js/static/js/main.bb454a6f.js",
-    "static/js/488.b2b2747d.chunk.js": "/hemanth-maddi/2048_GUI/my-2048/index.js/static/js/488.b2b2747d.chunk.js",
-    "index.html": "/hemanth-maddi/2048_GUI/my-2048/index.js/index.html",
-    "main.14a24422.css.map": "/hemanth-maddi/2048_GUI/my-2048/index.js/static/css/main.14a24422.css.map",
-    "main.bb454a6f.js.map": "/hemanth-maddi/2048_GUI/my-2048/index.js/static/js/main.bb454a6f.js.map",
-    "488.b2b2747d.chunk.js.map": "/hemanth-maddi/2048_GUI/my-2048/index.js/static/js/488.b2b2747d.chunk.js.map"
+    "main.css": "/hemanth-maddi/my-2048/static/css/main.14a24422.css",
+    "main.js": "/hemanth-maddi/my-2048/static/js/main.ee303a30.js",
+    "static/js/488.b2b2747d.chunk.js": "/hemanth-maddi/my-2048/static/js/488.b2b2747d.chunk.js",
+    "index.html": "/hemanth-maddi/my-2048/index.html",
+    "main.14a24422.css.map": "/hemanth-maddi/my-2048/static/css/main.14a24422.css.map",
+    "main.ee303a30.js.map": "/hemanth-maddi/my-2048/static/js/main.ee303a30.js.map",
+    "488.b2b2747d.chunk.js.map": "/hemanth-maddi/my-2048/static/js/488.b2b2747d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14a24422.css",
-    "static/js/main.bb454a6f.js"
+    "static/js/main.ee303a30.js"
   ]
 }
