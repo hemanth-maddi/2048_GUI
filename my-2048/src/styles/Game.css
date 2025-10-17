@@ -1,0 +1,84 @@
+body {
+  background: #faf8ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Arial", sans-serif;
+  margin: 0;
+}
+
+.game-container {
+  text-align: center;
+  background: #bbada0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #999;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(4, 100px);
+  grid-gap: 10px;
+  margin-top: 20px;
+}
+
+.tile {
+  width: 100px;
+  height: 100px;
+  background: #cdc1b4;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  font-weight: bold;
+  color: #776e65;
+}
+
+.value-2 { background: #eee4da; }
+.value-4 { background: #ede0c8; }
+.value-8 { background: #f2b179; color: #f9f6f2; }
+.value-16 { background: #f59563; color: #f9f6f2; }
+.value-32 { background: #f67c5f; color: #f9f6f2; }
+.value-64 { background: #f65e3b; color: #f9f6f2; }
+.value-128 { background: #edcf72; color: #f9f6f2; }
+.value-256 { background: #edcc61; color: #f9f6f2; }
+.value-512 { background: #edc850; color: #f9f6f2; }
+.value-1024 { background: #edc53f; color: #f9f6f2; }
+.value-2048 { background: #edc22e; color: #f9f6f2; }
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  color: #fff;
+}
+
+button {
+  padding: 8px 16px;
+  background: #8f7a66;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #9c8372;
+}
+
+.overlay {
+  margin-top: 15px;
+  font-size: 30px;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.board {
+  margin-top: 20px; /* Only static styling */
+}
